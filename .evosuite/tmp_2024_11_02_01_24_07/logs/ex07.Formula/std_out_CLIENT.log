@@ -1,0 +1,74 @@
+* Starting client
+* Connecting to master process on port 10938
+* Analyzing classpath: 
+  - C:\Users\u2934\eclipse-workspace\ex07\target\classes
+  - C:\Users\u2934\.m2\repository\junit\junit\4.12\junit-4.12.jar
+  - C:\Users\u2934\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar
+* Finished analyzing classpath
+* Generating tests for class ex07.Formula
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+* Loaded 17 tests from C:\Users\u2934\eclipse-workspace\ex07\.evosuite\evosuite-seeds\ex07.Formula.seed
+* Total number of test goals: 
+  - Line 18
+  - Branch 10
+  - Exception 0
+  - MutationFactory 21
+  - Output 9
+  - Method 4
+  - MethodNoException 4
+  - CBranchFitnessFactory 10
+* Using seed 1730478347808
+* Starting evolution
+* Search finished after 68s and 4548 generations, 759786 statements, best individual has fitness: 1.5
+* Writing sequences to pool
+* Minimizing test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 100%
+* Total number of goals: 18
+* Number of covered goals: 18
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 100%
+* Total number of goals: 10
+* Number of covered goals: 10
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100%
+* Total number of goals: 1
+* Number of covered goals: 1
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 100%
+* Total number of goals: 21
+* Number of covered goals: 21
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 89%
+* Total number of goals: 9
+* Number of covered goals: 8
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 100%
+* Total number of goals: 4
+* Number of covered goals: 4
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 100%
+* Total number of goals: 4
+* Number of covered goals: 4
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 100%
+* Total number of goals: 10
+* Number of covered goals: 10
+* Generated 10 tests with total length 18
+* Resulting test suite's coverage: 99% (average coverage for all fitness functions)
+* Generating assertions
+* Resulting test suite's mutation score: 94%
+* Compiling and checking tests
+* Writing JUnit test case 'Formula_ESTest' to C:\Users\u2934\eclipse-workspace\ex07\.evosuite\tmp_2024_11_02_01_24_07\tests
+* Done!
+

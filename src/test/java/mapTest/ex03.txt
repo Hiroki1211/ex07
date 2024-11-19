@@ -1,0 +1,51 @@
+EvoSuite	test0	Calculator	Calculator	<init>
+EvoSuite	test0	Calculator	Calculator	run	1165	1165	"/"
+EvoSuite	test4	Calculator	Calculator	<init>
+EvoSuite	test4	Calculator	Calculator	run	1	-1	"/"
+Extract	77a1a86c	Calculator
+EvoSuite	test1	Calculator	Calculator	<init>
+EvoSuite	test1	Calculator	Calculator	run	0	-362	"*"
+EvoSuite	test9	Calculator	Calculator	<init>
+EvoSuite	test9	Calculator	Calculator	run	-143528992	-143528992	"*"
+Extract	2bf9cf09	Calculator
+EvoSuite	test2	Calculator	Calculator	<init>
+EvoSuite	test2	Calculator	Calculator	run	0	1394	"-"
+EvoSuite	test8	Calculator	Calculator	<init>
+EvoSuite	test8	Calculator	Calculator	run	-24	-24	"-"
+Extract	25050e9e	Calculator
+EvoSuite	test3	Calculator	Calculator	<init>
+EvoSuite	test3	Calculator	Calculator	run	-1994619633	-1994638843	"+"
+Extract	485ebe64	Calculator
+EvoSuite	test6	Calculator	Calculator	<init>
+EvoSuite	test6	Calculator	Calculator	run	1	0	"/"
+Extract	47cd0354	Calculator
+EvoSuite	test7	Calculator	Calculator	<init>
+EvoSuite	test7	Calculator	Calculator	run	-2013655293	267656710	":"
+Extract	4ab18562	Calculator
+EvoSuite	test1	Executer	Executer	<init>
+EvoSuite	test1	Executer	Executer	run	""
+Extract	1c94ff04	Executer
+EvoSuite	test0	Formula	Formula	<init>	"3 dYq%jUwM 5"
+EvoSuite	test0	Formula	Formula	getOpe
+Extract	212f1e31	Formula
+Extract	3e64b0cd	Formula
+Extract	51aba95f	Formula
+Extract	6cd7f7e	Formula
+Extract	44b306fc	Formula
+EvoSuite	test1	Formula	Formula	<init>	"]D^>xRw}`PlWD"
+EvoSuite	test1	Formula	Formula	getB
+Extract	5f4a3700	Formula
+EvoSuite	test2	Formula	Formula	<init>	"3 dYq%jUwM 5"
+EvoSuite	test2	Formula	Formula	getA
+Extract	212f1e31	Formula
+Extract	3e64b0cd	Formula
+Extract	51aba95f	Formula
+Extract	6cd7f7e	Formula
+Extract	44b306fc	Formula
+EvoSuite	test4	Formula	Formula	<init>	"3 Y%wM 5"
+EvoSuite	test4	Formula	Formula	getB
+Extract	212f1e31	Formula
+Extract	3e64b0cd	Formula
+Extract	51aba95f	Formula
+Extract	6cd7f7e	Formula
+Extract	44b306fc	Formula

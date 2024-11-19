@@ -1,0 +1,52 @@
+EvoSuite	test0	Calculator	<init>
+EvoSuite	test0	Calculator	run	-1	1	"/"
+EvoSuite	test6	Calculator	<init>
+EvoSuite	test6	Calculator	run	-4177965	-4177965	"/"
+Extract	77a1a86c	Calculator
+EvoSuite	test1	Calculator	<init>
+EvoSuite	test1	Calculator	run	-1	670	"*"
+Extract	2bf9cf09	Calculator
+EvoSuite	test2	Calculator	<init>
+EvoSuite	test2	Calculator	run	0	1394	"-"
+EvoSuite	test7	Calculator	<init>
+EvoSuite	test7	Calculator	run	-1722172944	-1722172944	"-"
+Extract	25050e9e	Calculator
+EvoSuite	test3	Calculator	<init>
+EvoSuite	test3	Calculator	run	-1	-2926	"+"
+Extract	485ebe64	Calculator
+EvoSuite	test5	Calculator	<init>
+EvoSuite	test5	Calculator	run	1	0	"/"
+Extract	47cd0354	Calculator
+EvoSuite	test8	Calculator	<init>
+EvoSuite	test8	Calculator	run	-1722172944	-1722172944	""
+Extract	4ab18562	Calculator
+EvoSuite	test1	Executer	<init>
+EvoSuite	test1	Executer	run	""
+Extract	1c94ff04	Executer
+EvoSuite	test2	Formula	<init>	"3Y?L5"
+EvoSuite	test2	Formula	getA
+EvoSuite	test3	Formula	<init>	"-36?M?5"
+EvoSuite	test3	Formula	getA
+Extract	212f1e31	Formula
+Extract	3e64b0cd	Formula
+Extract	51aba95f	Formula
+Extract	6cd7f7e	Formula
+Extract	44b306fc	Formula
+EvoSuite	test6	Formula	<init>	"r#hyz-NsAE"
+Extract	5f4a3700	Formula
+EvoSuite	test1	Formula	<init>	"3Y%wM5"
+EvoSuite	test1	Formula	getB
+EvoSuite	test7	Formula	<init>	"3=H7uV^-4"
+EvoSuite	test7	Formula	getB
+Extract	212f1e31	Formula
+Extract	3e64b0cd	Formula
+Extract	51aba95f	Formula
+Extract	6cd7f7e	Formula
+Extract	44b306fc	Formula
+EvoSuite	test8	Formula	<init>	"-36?M?5"
+EvoSuite	test8	Formula	getOpe
+Extract	212f1e31	Formula
+Extract	3e64b0cd	Formula
+Extract	51aba95f	Formula
+Extract	6cd7f7e	Formula
+Extract	44b306fc	Formula
